@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'http://localhost:3000/',
+    href: 'http://localhost:3005/',
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'http://localhost:3000/farms',
+    href: 'http://localhost:3005/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'http://localhost:3000/pools',
+    href: 'http://localhost:3005/pools',
   },
   // {
   //   label: 'Lottery',
