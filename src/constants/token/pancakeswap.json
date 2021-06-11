@@ -9,39 +9,15 @@
   "tags": {},
   "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
   "keywords": ["pancake", "default"],
-  "tokens": [
+  "tokens": [   
     {
-      "name": "WBNB Token",
-      "symbol": "WBNB",
-      "address": "0xb2D9218A3189f8A0608739AA5627ED1c0980971f",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
-    },
-    {
-      "name": "Bakery Token",
+      "name": "TEST",
       "symbol": "BAKE",
-      "address": "0x4d75Ab551f238a68f5337902D2DDEd203a3dA2D9",
-      "chainId": 56,
+      "address": "0xc8500c70291f1f38133daD583313d2f74DEDc77A",
+      "chainId": 97,
       "decimals": 18,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
-    },
-    {
-      "name": "BUSD Token",
-      "symbol": "BUSD",
-      "address": "0xA90da85Cb5eaE3ad93F71692bD6f608e7a75C2f1",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
-    },
-    {
-      "name": "Ethereum Token",
-      "symbol": "ETH",
-      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
-    }
+    }  
    
   ]
 }
