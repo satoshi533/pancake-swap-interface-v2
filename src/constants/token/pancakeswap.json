@@ -10,6 +10,14 @@
   "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
   "keywords": ["pancake", "default"],
   "tokens": [   
+     {
+      "name": "TEST",
+      "symbol": "TEST",
+      "address": "0x1Bf87D4d8049AEd774Fe118971e87a315819e772",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
+    } ,
     {
       "name": "TEST",
       "symbol": "TEST",
