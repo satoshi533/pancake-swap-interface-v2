@@ -12,8 +12,8 @@
   "tokens": [   
     {
       "name": "TEST",
-      "symbol": "BAKE",
-      "address": "0xc8500c70291f1f38133daD583313d2f74DEDc77A",
+      "symbol": "TEST",
+      "address": "0x3Ee1CC33cfd902F89Aa7853685AA7754cA60C70a",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
