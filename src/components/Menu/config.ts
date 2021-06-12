@@ -1,10 +1,11 @@
 import { MenuEntry } from '@pancakeswap-libs/uikit'
+import { NAVIGATOR_URL } from '../../constants/index'
 
 const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'http://localhost:3005/',
+    href: `${NAVIGATOR_URL}`,
   },
   {
     label: 'Trade',
@@ -24,12 +25,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'http://localhost:3005/farms',
+    href: `${NAVIGATOR_URL}farms`,
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'http://localhost:3005/pools',
+    href: `${NAVIGATOR_URL}pools`,
   },
   // {
   //   label: 'Lottery',
